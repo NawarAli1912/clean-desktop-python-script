@@ -1,4 +1,4 @@
-#Desktop Organizer - Python Script
+# Desktop Organizer - Python Script
 This script helps you clean up your desktop by automatically organizing files and folders based on their types.
 
 Features:
